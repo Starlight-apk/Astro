@@ -25,7 +25,7 @@ const SITE_TIMEZONE = 8;
 export const siteConfig: SiteConfig = {
 	title: "Starlight-apk",
 	subtitle: "Starlight-apk blog",
-	siteURL: "https://starlight-apk.cn/",
+	siteURL: "https://www.starlight-apk.cn/",
 	siteStartDate: "2026-5-10",
 	timeZone: SITE_TIMEZONE,
 	lang: SITE_LANG,
