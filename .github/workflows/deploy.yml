@@ -37,7 +37,7 @@ jobs:
         run: pnpm install
 
       - name: 构建项目
-        run: pnpm build:nozip
+        run: pnpm build
 
       - name: 配置 Pages
         uses: actions/configure-pages@v5
