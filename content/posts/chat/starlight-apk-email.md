@@ -1,31 +1,14 @@
 ---
 title: starlight-apk.cn 邮箱注册正式开启
 published: 2026-05-13
-description: 拖了很久，终于搞定了。联系方式：holle@starlight-apk.cn
+description: 重大通知
 tags: [starlight-apk, 邮箱, 公告]
 category: 项目
 draft: false
 ---
 
 > [!NOTE]
-> 之前一直没有正经的联系方式，现在有了。
-
-## 邮箱地址
-
-**holle@starlight-apk.cn**
-
-## 关于这个拼写
-
-我知道你肯定想说：是不是写错了？
-
-是。
-
-本来想注册 `hello@`，手滑写成了 `holle@`。
-
-发现的时候已经来不及改了。就这样吧。
-
-> [!TIP]
-> 你记住就行了。反正也不难记。
+> starlight-apk.cn 已经正式开启邮箱注册 可以通过联系awa@starlight-apk.cn 来进行邮箱注册
 
 ## 能用来干什么
 
@@ -50,7 +33,7 @@ draft: false
 
 ## 写在最后
 
-holle@starlight-apk.cn
+awa@starlight-apk.cn
 
 欢迎来信。
 
